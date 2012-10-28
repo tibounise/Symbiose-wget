@@ -1,6 +1,6 @@
 <?php
 // Wget for Symbiose WebOS
-// Coded by TiBounise & Simonser
+// Coded by TiBounise & $imon
 // Released as GPL v3 software
 
 if (!$this->arguments->isParam(0))
